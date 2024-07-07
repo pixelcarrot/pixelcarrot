@@ -2,7 +2,7 @@
 
 💻 I'm interested in mobile development, and researching new technologies. 🚀 I love sharing my knowledge and discoveries. 📚✨
 
-📫 Feel free to explore my repositories and connect with me. For more insights and updates, visit my [blog](https://pixelcarrot.com/). 🌐🔗
+📫 Feel free to explore my repositories and connect with me. For more insights and updates, visit my [blog](https://pixelcarrot.com/). 🥕
 
 <!--
 **pixelcarrot/pixelcarrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
